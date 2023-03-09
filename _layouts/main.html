@@ -16,39 +16,41 @@ layout: default
     <section class="contact">
       <h3 class="contact-title">Contact me</h3>
       <ul>
-        <!-- twitter -->
+        <!-- social-resume -->
+        {% if site.social-resume %}
+          <li><a href="https://twitter.com/{{ site.social-resume }}" title="Download Resume" target="_blank"><i class="fa fa-file-text-o" aria-hidden="true"></i></a></li>
+        {% else %}
+          <li><a href="https://drive.google.com/uc?export=download&id=10Wkbt9vSHyFv_JrbSY0IBIs49Dm2Zwoe" title="Download Resume" target="_blank"><i class="fa fa-file-text-o" aria-hidden="true"></i></a></li>
+        {% endif %}
+        <!-- social-twitter -->
         {% if site.social-twitter %}
-          <li><a href="https://twitter.com/{{ site.social-twitter }}" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+          <li><a href="https://twitter.com/{{ site.social-twitter }}" title="Twitter" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
         {% else %}
-          <li><a href="https://twitter.com/artemsheludko_" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+          <li><a href="https://twitter.com/artemsheludko_" title="Twitter" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
         {% endif %}
-
-        <!-- fecebook -->
+        <!-- social-facebook -->
         <!-- {% if site.social-facebook %}
-          <li><a href="https://facebook.com/{{ site.social-facebook }}" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+          <li><a href="https://facebook.com/{{ site.social-facebook }}" title="Facebook" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
         {% else %}
-          <li><a href="https://facebook.com/" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+          <li><a href="https://facebook.com/" title="Facebook" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
         {% endif %} -->
-
-        <!-- github -->
+        <!-- social-github -->
         {% if site.social-github %}
-          <li class="github"><a href="http://github.com/{{site.social-github}}" target="_blank"><i class="fa fa-github"></i></a></li>
+          <li class="github"><a href="http://github.com/{{site.social-github}}" title="Github" target="_blank"><i class="fa fa-github"></i></a></li>
         {% else %}
-          <li class="github"><a href="http://github.com/" target="_blank"><i class="fa fa-github" aria-hidden="true"></i></a></li>
+          <li class="github"><a href="http://github.com/" title="Github" target="_blank"><i class="fa fa-github" aria-hidden="true"></i></a></li>
         {% endif %}
-        
-        <!-- linkedin -->
+        <!-- social-linkedin -->
         {% if site.social-linkedin %}
-          <li class="linkedin"><a href="https://in.linkedin.com/in/{{site.social-linkedin}}" target="_blank"><i class="fa fa-linkedin"></i></a></li>
+          <li class="linkedin"><a href="https://in.linkedin.com/in/{{site.social-linkedin}}" title="LinkedIn" target="_blank"><i class="fa fa-linkedin"></i></a></li>
         {% else %}
-          <li class="linkedin"><a href="https://in.linkedin.com/" target="_blank"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
+          <li class="linkedin"><a href="https://in.linkedin.com/" title="LinkedIn" target="_blank"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
         {% endif %}
-
-        <!-- email -->
+        <!-- social-email -->
         {% if site.social-email %}
-          <li class="email"><a href="mailto:{{site.social-email}}"><i class="fa fa-envelope-o"></i></a></li>
+          <li class="email"><a href="mailto:{{site.social-email}}" title="Email" ><i class="fa fa-envelope-o"></i></a></li>
         {% else %}
-          <li class="email"><a href="mailto:example.david@blog.com"><i class="fa fa-envelope-o" aria-hidden="true"></i></a></li>
+          <li class="email"><a href="mailto:example.david@blog.com" title="Email"><i class="fa fa-envelope-o" aria-hidden="true"></i></a></li>
         {% endif %}
       </ul>
     </section> <!-- End Section Contact -->
