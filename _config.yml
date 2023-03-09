@@ -12,7 +12,7 @@ site-twitter: #if your site has a twitter account, enter it here
 author: Larasati # add your name
 author-img: larasati.png # add your photo
 about-author: Aspiring data analyst who focuses on data visualization, wrangling, and presenting. I make numbers look pretty. # add description
-social-resume: 
+social-resume:  # add your Resume handle
 social-twitter: meng_sanyo # add your Twitter handle
 # social-facebook: # add your Facebook handle
 social-github: git-larasati # add your Github handle

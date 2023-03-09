@@ -36,7 +36,9 @@ Link for a <strong>Live Demo</strong> is provided the bottom of the page.
 * Academic Researchers (national & global)
 * General Audience / Public
 
-<hr>
+<!-- separator -->
+<img src="{{site.baseurl}}/assets/img/Separator.png" style="display: block; margin-left: auto; margin-right: auto;"/>
+<!-- separator -->
 
 <strong>User-Flow:</strong>
 <img src="{{site.baseurl}}/assets/img/CVEWS-userflow.png" width="450" height="auto" style="display: block; margin-left: auto; margin-right: auto;"/>
@@ -47,7 +49,9 @@ Our simplified user-flow aims to achieve:
 * <strong>Intuitive Filters</strong> -- The displayed visualization adapts on the selected filters.
 * <strong>Dissemination of Information</strong> -- Download button for raw data, code book, and report is available on Main page. Each page has "Download as PDF" button to help spread dissemination of information to the public.
 
-<hr>
+<!-- separator -->
+<img src="{{site.baseurl}}/assets/img/Separator.png" style="display: block; margin-left: auto; margin-right: auto;"/>
+<!-- separator -->
 
 <strong>Dashboard Features:</strong>
 <img src="{{site.baseurl}}/assets/img/CVEWS_ChangeLanguage.gif" width="200" height="auto" style="display: block; margin-left: auto; margin-right: auto;"/>
@@ -59,30 +63,6 @@ Our simplified user-flow aims to achieve:
 <img src="{{site.baseurl}}/assets/img/CVEWS_Scatterplot.gif" width="200" height="auto" style="display: block; margin-left: auto; margin-right: auto;"/>
 <p style="text-align:center"><strong>Interactive Scatterplot.</strong> Adjust X-Axis and Y-Axis according to User's needs.</p>
 
-<!-- <hr>
-
-<div class="row">
-  <div class="column">
-    <img src="{{site.baseurl}}/assets/img/CVEWS_ChangeLanguage.gif" width="200" height="auto" alt="button language" style="display: block; margin-left: auto; margin-right: auto;">
-  </div>
-  <div class="column">
-    <img src="{{site.baseurl}}/assets/img/CVEWS_GraphToggle.gif" width="200" height="auto" style="display: block; margin-left: auto; margin-right: auto;"/>
-  </div>
-  <div class="column">
-   <img src="{{site.baseurl}}/assets/img/CVEWS_Info.gif" width="200" height="auto" style="display: block; margin-left: auto; margin-right: auto;"/>
-  </div>
-    <div class="column">
-  <img src="{{site.baseurl}}/assets/img/CVEWS_Scatterplot.gif" width="200" height="auto" style="display: block; margin-left: auto; margin-right: auto;"/>
-  </div>
-</div>
-
-
-
-<strong>Language Button</strong> -- Switch between Bahasa Indonesia and English. | <strong>Filters</strong> -- Filters act as central control to display information on the page.
-
-* <strong>Save as PDF Button</strong> -- Capture the displayed data and save it as PDF.
-
-* <strong>Interactive Scatterplot</strong> -- Adjust X-Axis and Y-Axis based on User's needs. -->
 
 
 

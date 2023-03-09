@@ -8,7 +8,9 @@ tags: [data wrangling, data visualization, UI design, Tableau, Figma, Python] # 
 ---
 >eCommerce Company Dashboard developed 'Project Lab BI II' course held by Pacmann.io. All copyright belongs to respective authors.
 
-As our final project of Project Lab BI II, students formed a group of 3 to develop a company dashboard which would be used to monitor 3 departments within the company. Our group consisted of Andi Cahyono, Dewandra Bomantara, and myself included. Each groups were given the same dataset of an eCommerce company based in Brazil.  
+As our final project of Project Lab BI II, students formed a group of 3 to develop a company dashboard which would be used to monitor 3 departments within the company. Our group consisted of Andi Cahyono, Dewandra Bomantara, and myself included. Each groups were given the same dataset of an eCommerce company based in Brazil.
+
+Link for a <strong>Live Demo</strong> is provided the bottom of the page.
 
 <hr>
 
@@ -28,6 +30,10 @@ Each dashboard takes about an average 2 days to develop.
 * Marketing Department
 * BizDev Department
 
+<!-- separator -->
+<img src="{{site.baseurl}}/assets/img/Separator.png" style="display: block; margin-left: auto; margin-right: auto;"/>
+<!-- separator -->
+
 <strong>User-Flow</strong>
 <img src="{{site.baseurl}}/assets/img/Company_UserFlow.png" width="450" height="auto" style="display: block; margin-left: auto; margin-right: auto;"/>
 <strong>e-Commerce Company Dashboard User-Flow.</strong> Userflow applies to all pages across CVEWS Dashboard.
@@ -38,16 +44,25 @@ Each dashboard takes about an average 2 days to develop.
 
 <strong>Open for Improvements</strong> -- Dashboard is always open for requests based on each department's need. Requests will be queued on B.I. Team's Pipeline.
 
+<!-- separator -->
+<img src="{{site.baseurl}}/assets/img/Separator.png" style="display: block; margin-left: auto; margin-right: auto;"/>
+<!-- separator -->
+
 <strong>Data Schemas</strong>
 <img src="{{site.baseurl}}/assets/img/Company_dataSchema.png" width="700" height="auto" style="display: block; margin-left: auto; margin-right: auto;"/>
 <p style="text-align:center"><strong>Data Schemas.</strong> Data schemas used in connecting cross-departmental dataset.</p>
 
+<!-- separator -->
+<img src="{{site.baseurl}}/assets/img/Separator.png" style="display: block; margin-left: auto; margin-right: auto;"/>
+<!-- separator -->
+
 <strong>Dashboard Features</strong>
-<strong>Control Panel</strong> -- Main control panel to adjust information displayed within page. Feature is unavailable for Biz.Dev. department.
-
-<strong>Tooltip</strong> -- Additional information to support data visualization. Information varies based on graph and page chosen.
-
-<strong>Bar, Line, and Donut Chart</strong> -- Graphics used to aid data visualization. Donut Chart for categories, bar chart for categorical grouping, etc.
+<img src="{{site.baseurl}}/assets/img/Company_Filter.png" width="200" height="auto" style="display: block; margin-left: auto; margin-right: auto;"/>
+<p style="text-align:center"><strong>Control Panel</strong>. Main control panel to adjust information displayed within page. <i>Feature is unavailable for Biz.Dev. department.</i></p>
+<img src="{{site.baseurl}}/assets/img/Company_Tooltip.png" width="200" height="auto" style="display: block; margin-left: auto; margin-right: auto;"/>
+<p style="text-align:center"><strong>Tooltip</strong>. Additional information to support data visualization. Information varies based on graph and page chosen.</p>
+<img src="{{site.baseurl}}/assets/img/Company_Bar.png" width="200" height="auto" style="display: block; margin-left: auto; margin-right: auto;">
+<p style="text-align:center"><strong>Bar, Line, and Donut Chart</strong>. Graphics used to aid data visualization. Donut Chart for categories, bar chart for categorical grouping, etc.</p>
 
 <hr>
 
