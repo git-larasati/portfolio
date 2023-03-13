@@ -69,7 +69,7 @@ Our simplified user-flow aims to achieve:
 <hr>
 
 <strong>Links:</strong>
-* <a href="https://public.tableau.com/app/profile/shofi.f.ilmi/viz/IndonesiaCollectiveViolenceEarlyWarningSystemCVEWS10/A1Beranda_1">Live Demo (INA/ENG)</a>
-* <a href="https://drive.google.com/file/d/1wYKuQjAn6TaQ4lcQqBPs4lQx4YRrTs3p/view?usp=share_link">Product Requirement Document (INA)</a>
-* <a href="https://drive.google.com/file/d/1wYKuQjAn6TaQ4lcQqBPs4lQx4YRrTs3p/view?usp=share_link">MVP Presentation (INA)</a>
-* <a href="https://medium.com/@social.larasati/mati-satu-tumbuh-seribu-upaya-kami-menghidupkan-kembali-dashboard-collective-violence-early-aaf07ea2a660">Developer's Note (INA)</a>
+* <a href="https://public.tableau.com/app/profile/shofi.f.ilmi/viz/IndonesiaCollectiveViolenceEarlyWarningSystemCVEWS10/A1Beranda_1">Live Demo</a> (INA/ENG)
+* <a href="https://drive.google.com/file/d/1cLgn3B38m3PQHE-pBALr0QM6Fv87Aahs/view?usp=share_link">Product Requirement Document</a> (INA)
+* <a href="https://drive.google.com/file/d/18gINSI5Vb6Z0wqOTTVHpNf4hXcnf2LA1/view?usp=share_link">MVP Presentation</a> (INA)
+* <a href="https://medium.com/@social.larasati/mati-satu-tumbuh-seribu-upaya-kami-menghidupkan-kembali-dashboard-collective-violence-early-aaf07ea2a660">Developer's Note</a> (INA)

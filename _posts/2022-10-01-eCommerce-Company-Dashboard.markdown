@@ -67,7 +67,7 @@ Each dashboard takes about an average 2 days to develop.
 <hr>
 
 <strong>Links:</strong>
-* <a href="https://public.tableau.com/app/profile/larasati.prabowo/viz/PLBI2eCommerceDashboardTimL/DashboardSales">Live Demo (ENG)</a>
-* <a href="https://drive.google.com/file/d/1C9IWsdquqBZh7CeytskIfovsyhtVRJyR/view?usp=share_link">Product Requirement Document (ENG)</a>
-* <a href="https://drive.google.com/file/d/1ZLR2Xb5RhoKgE6VFIZ6m23kWviFF7r3u/view?usp=share_link">MVP Presentation (ENG)</a>
-* <a href="https://drive.google.com/file/d/12DnDC9xQKUffN7923sLNkQw_DAN253yZ/view?usp=share_link">Project Report (ENG)</a>
+* <a href="https://public.tableau.com/app/profile/larasati.prabowo/viz/PLBI2eCommerceDashboardTimL/DashboardSales">Live Demo</a> (ENG)
+* <a href="https://drive.google.com/file/d/1C9IWsdquqBZh7CeytskIfovsyhtVRJyR/view?usp=share_link">Product Requirement Document</a> (ENG)
+* <a href="https://drive.google.com/file/d/1ZLR2Xb5RhoKgE6VFIZ6m23kWviFF7r3u/view?usp=share_link">MVP Presentation</a> (ENG)
+* <a href="https://drive.google.com/file/d/12DnDC9xQKUffN7923sLNkQw_DAN253yZ/view?usp=share_link">Project Report</a> (ENG)

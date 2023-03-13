@@ -76,8 +76,8 @@ Data sourced from <a href="opendata.jabarprov.go.id">opendata.jabarprov.go.id</a
 <hr>
 
 ### Links:
-* <a href="https://public.tableau.com/app/profile/andi.cahyono/viz/DashboardKesehatanIbudanAnak/MVP_Dashboard">Live Demo (INA)</a>
-* <a href="https://drive.google.com/file/d/1wYKuQjAn6TaQ4lcQqBPs4lQx4YRrTs3p/view?usp=share_link">Product Requirement Document (INA)</a>
-* <a href="https://drive.google.com/file/d/1imCOwTqPEscNlBzOm2P_gXArLv-1ciJK/view?usp=share_link">MVP Presentation (INA)</a>
-* <a href="https://drive.google.com/file/d/16kAAU0jDa3P-cLlN_IyKoWto2sMsUoys/view?usp=share_link">Final Report (INA)</a>
-* <a href="https://docs.google.com/forms/d/e/1FAIpQLSc-JeSiw0Inh0qm7kuc00b5Z0aAe7J4vMcjXYyLMyv37_zpzA/viewform">Grass-Root Data Collection App</a>
+* <a href="https://public.tableau.com/app/profile/andi.cahyono/viz/DashboardKesehatanIbudanAnak/MVP_Dashboard">Live Demo</a> (INA)
+* <a href="https://drive.google.com/file/d/1wYKuQjAn6TaQ4lcQqBPs4lQx4YRrTs3p/view?usp=share_link">Product Requirement Document</a> (INA)
+* <a href="https://drive.google.com/file/d/1imCOwTqPEscNlBzOm2P_gXArLv-1ciJK/view?usp=share_link">MVP Presentation</a> (INA)
+* <a href="https://drive.google.com/file/d/16kAAU0jDa3P-cLlN_IyKoWto2sMsUoys/view?usp=share_link">Final Report</a> (INA)
+* <a href="https://docs.google.com/forms/d/e/1FAIpQLSc-JeSiw0Inh0qm7kuc00b5Z0aAe7J4vMcjXYyLMyv37_zpzA/viewform">Grass-Root Data Collection App</a> (INA)

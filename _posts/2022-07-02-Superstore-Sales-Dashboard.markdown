@@ -7,7 +7,17 @@ img: Superstore_Dash.png # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [data wrangling, data visualization, UI design, Tableau, Python] # add tag
 ---
->Dashboard developed for 'Data Visualization 3' course held by Pacmann.io. All copyright belongs to respective authors.
+>Superstore Sales Dashboard developed for 'Business Intelligence/Data Analyst' trial course held by Pacmann.io. All copyright belongs to respective authors.
+
+During our trial course, participants were given the chance to develop a company dashboard using a public sample dataset titled "Superstore Dataset".
+
+The dashboard has to be able to provide answers regarding number of sales per region, profit and revenue, and sales per-product category.
+
+As my first dashboard, I exercised how to develop a geomap with circle marking to indicate profit per city, an interactive scatterplot that could be adjusted by the user, and a bar chart to view sales per month.
+
+Link for a <strong>Live Demo</strong> is provided the bottom of the page.
+
+<hr>
 
 <strong>Vision</strong>
 * To create a grass-root based health dashboard to increase visibility on mother and child's haelth condition in West Java province.
@@ -55,4 +65,4 @@ Data sourced from <a href="opendata.jabarprov.go.id">opendata.jabarprov.go.id</a
 <strong>Bar Chart & Dual-Axis Chart</strong> -- Data visualization to represent selected information.
 
 ### Links:
-* <a href="https://public.tableau.com/app/profile/larasati.prabowo/viz/larasati-gygK-dataviz-3/SuperstoreDashboard">Live Demo (ENG)</a>
+* <a href="https://public.tableau.com/app/profile/larasati.prabowo/viz/larasati-gygK-dataviz-3/SuperstoreDashboard">Live Demo</a> (ENG))
